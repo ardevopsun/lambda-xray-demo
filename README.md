@@ -6,6 +6,10 @@ This project demonstrates how to trace serverless API calls using AWS Lambda and
 
 Client → API Gateway → Lambda Function (Node.js) → AWS X-Ray
 
+![image](https://github.com/user-attachments/assets/cdf3cf67-7972-4379-899e-84515dc35186)
+
+
+
 ## Prerequisites
 
 - AWS CLI configured
